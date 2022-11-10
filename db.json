@@ -1,5 +1,4 @@
-[{"domains": ["marywood.edu"], "alpha_two_code": "US", "web_pages": ["http://www.marywood.edu"], "country": "United States", "state-province": null,
-"name": "Marywood University"}, {"domains": ["lindenwood.edu"], "alpha_two_code": "US", "web_pages": ["http://www.lindenwood.edu/"], 
-"country": "United States", "state-province": null, "name": "Lindenwood University"}, {"domains": ["sullivan.edu"], "alpha_two_code": "US", "web_pages": 
-["https://sullivan.edu/"], "country": "United States", "state-province": null, "name": "Sullivan University"}, {"domains": ["fscj.edu"], "alpha_two_code": 
-"US", "web_pages": ["https://www.fscj.edu/"], "country": "United States", "state-province": null, "name": "Florida State College at Jacksonville"}] 
+[{"domains": ["marywood.edu"], "alpha_two_code": "US", "web_pages": ["http://www.marywood.edu"], "country": "United States", {"domains": ["lindenwood.edu"],
+"alpha_two_code": "US", "web_pages": ["http://www.lindenwood.edu/"], "country": "United States",  {"domains": ["sullivan.edu"], "alpha_two_code": "US", "web_pages": 
+["https://sullivan.edu/"], "country": "United States", {"domains": ["fscj.edu"], "alpha_two_code": "US", "web_pages": ["https://www.fscj.edu/"], 
+"country": "United States"}] 
