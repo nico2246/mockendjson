@@ -1,5 +1,4 @@
 [{"id": "1", "Platillo": "Sashimi de salmon", "descripcion": "Corte de 8 piezas del mejor lomo de salmon", "precio": "$6.990"},
 {"id": "2", "Platillo": "Lomo Saltado", "descripcion": "Exquisito lomo saltado con la mejor tecnica peruana", "precio": "$8.990"},
 {"id": "3", "Platillo": "Aji de Gallina", "descripcion": "Aji de gallina preparado con el mejor aji amarillo del Peru", "precio": "$7.990"},
-{"id": "4", "Platillo": "Cerdo Apanado", "descripcion": "Chuleta de cerdo apanada en panko acompañada de arroz blanco", "precio": "$6.990"},
-  ]
+{"id": "4", "Platillo": "Cerdo Apanado", "descripcion": "Chuleta de cerdo apanada en panko acompañada de arroz blanco", "precio": "$6.990"}]
