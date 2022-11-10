@@ -1,4 +1,34 @@
-{"id": "1", "Platillo": "Sashimi de salmon", "descripcion": "Corte de 8 piezas del mejor lomo de salmon", "precio": "$6.990"},
-{"id": "2", "Platillo": "Lomo Saltado", "descripcion": "Exquisito lomo saltado con la mejor tecnica peruana", "precio": "$8.990"},
-{"id": "3", "Platillo": "Aji de Gallina", "descripcion": "Aji de gallina preparado con el mejor aji amarillo del Peru", "precio": "$7.990"},
-{"id": "4", "Platillo": "Cerdo Apanado", "descripcion": "Chuleta de cerdo apanada en panko acompañada de arroz blanco", "precio": "$6.990"}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
